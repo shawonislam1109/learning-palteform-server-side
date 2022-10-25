@@ -1,7 +1,7 @@
 [
     {
         "id" : "01",
-        "name": "react"
+        "name": "React"
     },
     {
         "id" : "02",
@@ -9,7 +9,7 @@
     },
     {
         "id" : "03",
-        "name": "spoken english"
+        "name": "Spoken english"
     },
     {
         "id" : "04",
@@ -17,7 +17,7 @@
     },
     {
         "id" : "05",
-        "name": "Html & Css"
+        "name": "Python"
     },
     {
         "id" : "06",

@@ -1,0 +1,68 @@
+[
+    {
+         "id":"01",
+         "header_title":"This React Crouse For beginners",
+         "image": "https://blog.logrocket.com/wp-content/uploads/2022/04/Progressive-image-loading-React-tutorial.png",
+         "description":"React js is built using jsx , A Combination of javaScript and XML element are crated using jsx, then use JavaScript to render them on your site. While React has a steep learning curve for a junior developer, its quickly shaping into one of the most React is consider today are considered framework. It helps to think of a  as tool that developers could use in any project and a framework as a whole design.",
+         "rating": 4.5,
+         "Price": 5000, 
+         "class": "50hr",
+         "video": 300,
+         "author":"Jahangir alam"
+    },
+    {
+         "id":"02",
+         "header_title":"This JavaScript Crouse For beginners",
+         "image": "https://blog.logrocket.com/wp-content/uploads/2021/02/machine-learning-libraries-javascript.png",
+         "description":"JavaScript has only one type of number. Numbers can be written with or without decimals.JavaScript is a programming language commonly used in web development.It was originally developed by Netscape as a means to add dynamic and interactive elements to websites. While JavaScript is influenced by Java, the syntax is more similar to C and is based on ECMAScript, a scripting language developed by Sun Microsystems.JavaScript is a client-side scripting language, which means the source code is processed by the client's web browser rather than on the web server. This means JavaScript functions can run after a webpage has loaded without communicating with the server. For example, a JavaScript function may check a web form before it is submitted to make sure all the required fields have been filled out. The JavaScript code can produce an error message before any information is actually transmitted to the server.",
+         "rating": 4.5,
+         "Price": 6000, 
+         "class": "100hr",
+         "video": 500,
+         "author":"Rabiyul Islam"
+    },
+    {
+         "id":"03",
+         "header_title":"This Spoken English Crouse For beginners",
+         "image": "https://i.pinimg.com/736x/a2/97/1d/a2971d0124f1ed41da86f115ff446a89.jpg",
+         "description":"Describing Spoken English provides a practical and descriptive introduction to the pronunciation of contemporary English. It presumes no prior knowledge of phonetics and phonology Charles Kreidler describes the principal varieties of English in the world today. Whilst concentrating on the phonological elements they share, the author sets out specific differences as minor variations on a theme. Although theoretically orientated towards generative phonology, theory is minimal and the book is clear, comprehensive and accessible to undergraduate and postgraduate students of linguistics and English Language. Numerous exercises are included to encourage further study.",
+         "rating": 3.5,
+         "Price": 2500, 
+         "class": "50hr",
+         "video": 100,
+         "author":"Shawon islam"
+    },
+    {
+         "id":"04",
+         "header_title":"This App development Crouse For beginners",
+         "image": "https://www.360technosoft.com/images/color-icon/android_dev.svg",
+         "description":"Application development involves the process, life, and creation of the software aimed at helping users. Mobile Developers work closely with computer analysts and engineers in using languages such as Java and C++ to develop the necessary specifications for software.Responsibilities vary for developers based on level of experience, type of application platform, and employer. Application developers often have the duty of creating, maintaining, and implementing the source code that makes up the application or program. Application developers may also be responsible for designing the prototype application, indicate program unit structure, and coordinate application plans with the development team or client.",
+         "rating": 4.5,
+         "Price": 5500, 
+         "class": "300hr",
+         "video": 600,
+         "author":"Al Amin hossien"
+    },
+    {
+         "id":"05",
+         "header_title":"This Python Crouse For beginners",
+         "image": "https://cdn.dribbble.com/users/1103017/screenshots/4307976/ad-01-.jpg",
+         "description":"Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it’s relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances.",
+         "rating": 4.5,
+         "Price": 5000, 
+         "class": "100hr",
+         "video": 300,
+         "author":"MD Habib"
+    },
+    {
+         "id":"06",
+         "header_title":"This PHP Crouse For beginners",
+         "image": "https://st.depositphotos.com/1029663/1293/i/600/depositphotos_12931287-stock-photo-php-coding.jpg",
+         "description":"What distinguishes PHP from something like client-side JavaScript is that the code is executed on the server, generating HTML which is then sent to the client. The client would receive the results of running that script, but would not know what the underlying code was. You can even configure your web server to process all your HTML files with PHP, and then there's really no way that users can tell what you have up your sleeve.",
+         "rating": 4.5,
+         "Price": 5000, 
+         "class": "50hr",
+         "video": 300,
+         "author":"Jahangir alam"
+    }
+]
