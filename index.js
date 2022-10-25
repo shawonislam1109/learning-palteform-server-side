@@ -2,7 +2,8 @@ const express = require('express')
 const cors = require('cors')
 const app = express()
 const port = process.env.PORT || 5000;
-const crouse = require('./Data/CrouseCategory.json')
+const crouse = require('./Data/CrouseCategory.json');
+const category = require('./Data/categoryDetails.json');
 
 app.use(cors())
 
@@ -12,6 +13,9 @@ app.get('/', (req, res) => {
 
 app.get('/crouse_Data', (req, res) => {
     res.send(crouse)
+})
+app.get('/categoryData', (req, res) => {
+    res.send(category);
 })
 app.get('/crouse_Data/:id', (req, res) => {
     const id = req.params.id;
