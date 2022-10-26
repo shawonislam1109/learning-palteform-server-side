@@ -17,6 +17,11 @@ app.get('/crouse_Data', (req, res) => {
 app.get('/categoryData', (req, res) => {
     res.send(category);
 })
+app.get('/categoryData/:id', (req, res) => {
+    const id = req.params.id;
+    const categories = category.find(data => data.id == id);
+    res.send(categories);
+})
 app.get('/crouse_Data/:id', (req, res) => {
     const id = req.params.id;
     console.log(id);
