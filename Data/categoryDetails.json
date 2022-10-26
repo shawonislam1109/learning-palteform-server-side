@@ -8,7 +8,8 @@
          "Price": 5000, 
          "class_duration": "50hr",
          "video": 300,
-         "author":"Jahangir alam"
+         "author":"Jahangir alam",
+         "premium": "premium" 
     },
     {
          "id":"02",
@@ -41,7 +42,8 @@
          "Price": 5500, 
          "class_duration": "300hr",
          "video": 600,
-         "author":"Al Amin hossien"
+         "author":"Al Amin hossien",
+         "premium": "premium"
     },
     {
          "id":"05",
@@ -63,6 +65,7 @@
          "Price": 5000, 
          "class_duration": "200hr",
          "video": 700,
-         "author":"MD Gas Uddin"
+         "author":"MD Gas Uddin",
+         "premium": "premium"
     }
 ]
